@@ -53,7 +53,7 @@ global.BUTTON1 = 'Yeshan MD Group'
 //👇 URL button 2 name
 global.BUTTON2 = 'Contact Me'
 //👇 Button 1 url 
-global.BUTTON1_URL = 'https://chat.whatsapp.com/LtlKMQJ2L68LsXCQtBEfbO'
+global.BUTTON1_URL = 'https://chat.whatsapp.com/DC8E2cW4b2J3PyhjYt4sTY'
 //👇 Button 2 url
 global.BUTTON2_URL = 'wa.me/+94725058757?text='
 //👇 Your Add Massage 
@@ -77,7 +77,7 @@ global.SEX_VIDEO_DOWNLOAD = process.env.SEX_VIDEO_DOWNLOAD || 'true'
 //👇 Change Bot Language (English-' EN ', Sinhala , ' SI ' , Tamil - ' TL ')
 global.LANG = 'SI'
 //Alive logo
-global.alivelogo = process.env.ALIVE_IMAGE || `https://i.ibb.co/LzxCsjG/9f980a957a9033b30f21d73c48581c37-0.jpg`
+global.alivelogo = process.env.ALIVE_IMAGE || ``
 //👇 Alive message
 global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `_*Hi Dear I'm Alive Now...😙♥️*_
 
@@ -91,13 +91,13 @@ global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `_*Hi Dear I'm Alive Now...�
 
 _Yeshan MD 😙♥️_`
 //👇 Welcome Mesaage
-global.WELCOME = process.env.WELCOME || `*ʜɪ ᴅᴇᴀʀ ʏᴏᴜ ᴀʀᴇ ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴛʜᴇ ʙᴏᴛ ɢʀᴏᴜᴘ..😙♥️*`
+global.WELCOME = process.env.WELCOME || `*හායි ඔයාව ගෲපට සාදරයෙන් පිලිගන්නවා...😋💞   ඔයාගේ නම මොකක්ද...?*`
 //👇 welcome image 
-global.WELCOME_IMAGE = process.env.WELCOME_IMAGE || `https://i.ibb.co/BBMFqyb/fcddf4260e88d5e5bf55e7043436d8fd-0.jpg`
+global.WELCOME_IMAGE = process.env.WELCOME_IMAGE || ``
 //👇 Goodbye message 
-global.GOODBYE = process.env.GOODBYE || `You Were Removed From The Group..😒💔`
+global.GOODBYE = process.env.GOODBYE || `*අහ්...යනවද ඉතිම් හා හා පරිස්සමෙන් පලයම්...😒💔*`
 //👇 Good bye image
-global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || `https://i.ibb.co/BBMFqyb/fcddf4260e88d5e5bf55e7043436d8fd-0.jpg`
+global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || ``
 //👇 Send Welcome ( true or false )
 global.SEND_WELCOME = process.env.SEND_WELCOME || true
 //👇 Send block command message (true or false )
